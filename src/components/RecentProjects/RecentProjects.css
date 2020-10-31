@@ -1,0 +1,7 @@
+.box{
+    background-color: black;
+}
+
+.box:hover {
+     box-shadow: 5px 5px 5px 3px #17A2B8;
+}
